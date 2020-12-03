@@ -1,2 +1,3 @@
 # robertbulai.xyz
-My personal website.
+
+Home of my personal website, mainly acting as my portfolio.
